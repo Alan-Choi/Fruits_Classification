@@ -18,3 +18,6 @@ the visualization of confusion matrices
 
 ## Package Management
 - Anaconda
+
+## Dataset
+- The images used for this project was downloaded from [_here_](https://www.vicos.si/resources/fids30/)
